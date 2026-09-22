@@ -1,1 +1,1 @@
-#API Lista de jogos
+#APP Lista de jogos
