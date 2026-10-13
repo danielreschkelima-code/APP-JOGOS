@@ -1,2 +1,1 @@
-# *APP Lista de jogos*
-*** 
+# App Lista de Jogos --
